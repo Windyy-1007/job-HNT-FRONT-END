@@ -1,2 +1,2 @@
 # HNT-SWIM-CLUB
-An E-Commercial Webssite for HNT Swimming Club. By Team 30
+An E-Commercial Website for HNT Swim Club. By Team 30
