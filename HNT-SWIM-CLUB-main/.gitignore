@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Test artifacts
+test-reports/
+*.log
+
+# Environment variables
+.env
+
+# Screenshots (if added)
+screenshots/
+test-screenshots/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Selenium
+geckodriver.log
+chromedriver.log
